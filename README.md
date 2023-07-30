@@ -1,22 +1,42 @@
-# Desafio 01: Criando sua primeira Landing Page com HTML e CSS
+# Landing Page - Desafio DIO de CSS
 
-Bem vindo(a) ao primeiro desafio da Trilha de CSS da DIO! Nela, você vai construir sua primeira Landing Page com HTML e CSS, colocando em prática os fundamentos do CSS,
-as propriedades básicas da linguagem de estilização, além de trabalhar com as unidades de medidas relativas e absolutas que aprendemos ao longo da trilha.
+![image](https://github.com/LeticiaTrindade/trilha-css-desafio-01/assets/61462194/1321b0cf-260b-412a-8731-34146d1e1eac)
 
-[Clique aqui](https://micheleambrosio.github.io/dio-trilha-css-desafio-01/) para acessar o resultado final da Landing Page criada a partir do desafio!
+## Descrição do Projeto
 
-![image](https://user-images.githubusercontent.com/55519539/183538055-6cce606c-7d1d-4d15-a4be-ffeb5b37c956.png)
+Este repositório contém o código fonte da Landing Page desenvolvida como parte do Desafio 01 da trilha de CSS da Digital Innovation One (DIO). Neste projeto, pude colocar em prática os fundamentos do CSS e suas propriedades básicas, além de trabalhar com unidades de medidas relativas e absolutas aprendidas ao longo da trilha.
 
-Para você realizar o desafio, basta fazer um **fork** para o seu GitHub e começar a mexer no projeto.
-Dentro da pasta *main*, você vai encontrar todas as imagens e o arquivo HTML, contendo a estrutura básica da sua página, faltando apenas
-realizar a estilização da sua página. É necessário que você faça toda a parte responsável por interligar sua página HTML com suas folhas
-de estilo para que o resultado da estilização funcione.
+O objetivo do desafio era construir uma Landing Page baseada no layout fornecido no Figma. O Figma é uma ferramenta de design colaborativa que permite criar e compartilhar interfaces de usuário, wireframes e protótipos interativos. O layout fornecido pelo Figma para este desafio pode ser encontrado no seguinte link: [Layout Figma - DIO Desafio 01](https://www.figma.com/file/3PiokoJj9IhGDnNiWAJbz7/DIO---Desafio-01?node-id=2%3A6)
 
-[Link do Figma](https://www.figma.com/file/3PiokoJj9IhGDnNiWAJbz7/DIO---Desafio-01?node-id=2%3A6) contendo o protótipo do desafio para
-que você possa se basear.
+## Tecnologias Utilizadas
 
-*Observações: para aplicar os textos em gradiente, utilize a propriedade CSS background-clip, porém, para funcionar em alguns navegadores,
-é necessário utilizar a propriedade -webkit-background-clip: text;*
+- HTML5: Utilizado para estruturar a página.
+- CSS3: Utilizado para estilizar e posicionar os elementos na página.
 
-Caso tenha alguma dúvida, ou queira comparar o resultado do desafio que você fez, nós temos o site finalizado na branch *final*. Basta alterar a branch do projeto
-utilizando o comando `git checkout final` no seu terminal.
+## Principais Conceitos Aplicados
+
+Durante a construção da Landing Page, pude aplicar os seguintes conceitos fundamentais do CSS:
+
+1. **Seletores CSS:** Utilizei seletores para aplicar estilos a elementos específicos da página, garantindo que o design fosse consistente e coeso.
+
+2. **Propriedades de Estilo:** Explorei diversas propriedades de estilo, como `background-color`, `color`, `font-size`, `border`, `padding`, `margin`, entre outras, para criar uma aparência visual atraente.
+
+3. **Posicionamento de Elementos:** Aprendi a utilizar as propriedades `position`, `display`, `float`, `flex`, entre outras, para posicionar os elementos de acordo com o layout desejado.
+
+4. **Unidades de Medida:** Trabalhei com unidades de medida relativas (por exemplo, `%`, `em`, `rem`) e absolutas (por exemplo, `px`) para tornar a página responsiva e amigável para diferentes dispositivos.
+
+5. **Flexbox:** Utilizei o modelo de layout flexbox para criar um design flexível e adaptável, permitindo melhor distribuição dos elementos na página.
+
+## Visualizando a Landing Page
+
+Para visualizar a Landing Page, basta clonar este repositório e abrir o arquivo `index.html` em seu navegador preferido. Você também pode acessar a página online por meio do GitHub Pages, seguindo o link abaixo:
+
+[Visualizar Landing Page](https://leticiatrindade.github.io/trilha-css-desafio-01/)
+
+## Considerações Finais
+
+Este projeto foi uma oportunidade empolgante de aprimorar meus conhecimentos em CSS e colocar em prática as técnicas aprendidas durante a trilha da Digital Innovation One. Espero que essa Landing Page seja um exemplo de como é possível criar layouts atraentes com as ferramentas certas.
+
+Sinta-se à vontade para explorar o código-fonte, fazer melhorias ou utilizar esse projeto como ponto de partida para suas próprias criações. Caso tenha alguma sugestão ou dúvida, não hesite em entrar em contato. Agradeço à DIO pela oportunidade de aprendizado e espero que esse projeto inspire outros desenvolvedores em sua jornada no mundo do CSS.
+
+Divirta-se codificando!
